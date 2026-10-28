@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LIKE MAGIC is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://likemagic.tech/
+LIKE MAGIC is a Swiss hospitality technology company providing a connected guest journey and hotel operations platform. It aims to increase efficiency, drive revenue, and create a game‑changing experience for guests and hotel staff through its integrated solutions for reservations, check‑in, room service, and AI‑powered personalization.
+
+**Areas:** Company · Hospitality · Technology · Guest Experience · Hotel Operations
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://likemagic.tech/)
+- [Documentation](https://likemagic.tech/api-integrations)
+- [Getting started](https://docs.likemagic.tech/docs/category/getting-started/)
+- [Pricing](https://likemagic.tech/pricing)
+- [Changelog](https://api-docs.likemagic.tech/release-notes/)
+- [Blog](https://likemagic.tech/blog)
+- [Privacy policy](https://likemagic.tech/privacy-policy)
+- [Status](https://status.likemagic.tech/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/like-magic/](https://apis.io/providers/like-magic/).
